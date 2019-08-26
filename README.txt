@@ -1,0 +1,7 @@
+How to update the tamasha website - 
+
+
+1. Install firebase CLI - https://firebase.google.com/docs/cli
+2. login to firebase with the tamasha email:  `firebase login`
+3. deploy your changes using `firebase deploy` to the tamasha website. 
+
